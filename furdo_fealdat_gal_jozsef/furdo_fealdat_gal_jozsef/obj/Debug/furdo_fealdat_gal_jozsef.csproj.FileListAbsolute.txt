@@ -1,0 +1,7 @@
+C:\Users\diak\Desktop\Gal_Jozsef\kopaszbela\dolgozat\furdo_fealdat_gal_jozsef\furdo_fealdat_gal_jozsef\obj\Debug\furdo_fealdat_gal_jozsef.csproj.AssemblyReference.cache
+C:\Users\diak\Desktop\Gal_Jozsef\kopaszbela\dolgozat\furdo_fealdat_gal_jozsef\furdo_fealdat_gal_jozsef\obj\Debug\furdo_fealdat_gal_jozsef.csproj.CoreCompileInputs.cache
+C:\Users\diak\Desktop\Gal_Jozsef\kopaszbela\dolgozat\furdo_fealdat_gal_jozsef\furdo_fealdat_gal_jozsef\bin\Debug\furdo_fealdat_gal_jozsef.exe.config
+C:\Users\diak\Desktop\Gal_Jozsef\kopaszbela\dolgozat\furdo_fealdat_gal_jozsef\furdo_fealdat_gal_jozsef\bin\Debug\furdo_fealdat_gal_jozsef.exe
+C:\Users\diak\Desktop\Gal_Jozsef\kopaszbela\dolgozat\furdo_fealdat_gal_jozsef\furdo_fealdat_gal_jozsef\bin\Debug\furdo_fealdat_gal_jozsef.pdb
+C:\Users\diak\Desktop\Gal_Jozsef\kopaszbela\dolgozat\furdo_fealdat_gal_jozsef\furdo_fealdat_gal_jozsef\obj\Debug\furdo_fealdat_gal_jozsef.exe
+C:\Users\diak\Desktop\Gal_Jozsef\kopaszbela\dolgozat\furdo_fealdat_gal_jozsef\furdo_fealdat_gal_jozsef\obj\Debug\furdo_fealdat_gal_jozsef.pdb
